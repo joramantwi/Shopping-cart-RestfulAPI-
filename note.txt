@@ -1,0 +1,11 @@
+RESTFul API 
+REST - Respresentational State Transfer
+not a tradition server sending html but data 
+
+We can us it to transder data around... JSON/XML
+
+
+CORS - Cross-Origin-Resource-Sharing
+
+this happens when the client is sharing to the server with the same 
+(origin)port 
